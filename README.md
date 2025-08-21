@@ -1,4 +1,4 @@
-# Keith Rowley Data - Header
+# Keith Rowley Data
 
 ## Data Science and Analytics
 
